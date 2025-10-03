@@ -1,4 +1,4 @@
-# **Ping Pong Game**
+# **Pong Game**
 
 
 ## Introduction
